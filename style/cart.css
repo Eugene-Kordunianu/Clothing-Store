@@ -1,0 +1,351 @@
+.box__cart {
+   padding: 2rem 0rem;
+}
+.cart__container {
+   display: flex;
+}
+.product__box-cart {
+   width: 70%;
+   background-color: #f4f4f4;
+   padding: 2rem;
+}
+.taitle__cart {
+   font-size: 2.5rem;
+   font-weight: 500;
+}
+.counter__cart {
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+   width: 25px;
+   height: 25px;
+   font-size: 1.8rem;
+   font-weight: 500;
+   background-color: transparent;
+   border-radius: 50%;
+   border: 2px solid #ffcd00;
+}
+.box__product-card {
+   display: flex;
+   border-top: 1px solid rgba(0, 0, 0, 0.5);
+   margin-top: 1rem;
+   padding-top: 1rem;
+   gap: 1rem;
+}
+.box__fotto-card {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.product__foto-card {
+   position: relative;
+   height: 400px;
+   width: 300px;
+   box-sizing: border-box;
+   /* height: 100%; */
+   cursor: pointer;
+}
+.product__foto-card img {
+   position: absolute;
+   top: 0;
+   left: 0;
+   object-fit: cover;
+   width: 100%;
+   height: 100%;
+}
+.box__card-name-price {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 1rem;
+}
+.box__product-details {
+   width: 80%;
+   padding: 0rem 2rem;
+   font-size: 2rem;
+   font-weight: 400;
+   line-height: 2.7rem;
+}
+.box__product-details > div {
+   margin-bottom: 1rem;
+}
+.box__product-details > div:last-child {
+   margin-bottom: 0;
+}
+.card__name {
+   font-size: 2rem;
+   line-height: 3rem;
+   width: 50%;
+   cursor: pointer;
+}
+.card__price {
+   font-size: 1.8rem;
+   line-height: 2.6rem;
+}
+.card__box-color,
+.card__box-size {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 1rem;
+}
+.item__color,
+.item__siaze,
+.item__prise {
+   color: rgba(0, 0, 0, 0.5);
+   width: 50%;
+}
+.color__name,
+.card__price,
+.size__value {
+   width: 50%;
+   display: flex;
+   gap: 0.5rem;
+   flex-wrap: wrap
+}
+
+.item__prise {
+   display: flex;
+   align-items: center;
+}
+
+
+.box__prise-counter {
+   display: flex;
+   flex-flow: column;
+   gap: 1.5rem;
+}
+
+.new__price {
+   margin-left: 1.5rem;
+   color: rgba(255, 0, 0, 0.848);
+}
+.old__price {
+   margin-left: 1.5rem;
+   color: black;
+}
+.price-counter {
+   display: flex;
+   justify-content: start;
+   align-items: flex-start;
+}
+
+.box__sub,
+.box__value,
+.box__add {
+   width: 3rem;
+   height: 3rem;
+   font-size: 1.5rem;
+   color: rgba(0, 0, 0, 0.5);
+   border: 1px solid rgba(0, 0, 0, 0.502);
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+}
+.box__value {
+   border: none;
+}
+:is(.sub,.add){
+width: 30px;
+height: 30px;
+}
+
+.sub::before,
+.add::before {
+   content: "";
+   position: absolute;
+   top: 51%;
+   left: 35%;
+   width: 10px;
+   height: 1px;
+   background-color: black;
+}
+.add::after {
+   content: "";
+   position: absolute;
+   top: 51%;
+   left: 35%;
+   width: 10px;
+   height: 1px;
+   background-color: black;
+   transform: rotate(90deg);
+}
+
+.box__value {
+   color: black;
+}
+.box__add:hover,.box__sub:hover{
+   background-color: #a04955db;
+   /* background-color: #a04955; */
+   cursor: pointer;
+}
+
+.add:hover::after,.add:hover::before,.sub:hover::before { 
+   background-color: rgb(255, 255, 255);
+}
+
+.box__remuve-like {
+   display: flex;
+   gap: 2rem;
+   padding: 1rem 0rem;
+   flex-wrap: wrap;
+}
+.remuve__title {
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   opacity: 0.5;
+   cursor: pointer;
+   border: 2px solid transparent;
+   padding: 1rem 2rem;
+}
+.remuve__title > .title {
+   margin-bottom: 0;
+   margin-left: 1rem;
+}
+.remuve {
+   height: 20px;
+   width: 20px;
+   position: relative;
+}
+
+.remuve::before,
+.remuve::after {
+   content: "";
+   width: 20px;
+   height: 1px;
+   background-color: black;
+   position: absolute;
+   top: 10px;
+   left: 0;
+}
+.remuve::after {
+   transform: rotate(45deg);
+}
+.remuve::before {
+   transform: rotate(-45deg);
+}
+.remuve__title:hover{
+   border: 2px solid #a04955;
+} 
+
+.add__like-title {
+   background-color: #a04955;
+   padding: 1rem 2rem;
+   color: white;
+   cursor: pointer;
+}
+.add__like {
+   margin-right: 1.5rem;
+}
+.box__sticky {
+   width: 30%;
+   padding: 2rem;
+   padding-bottom: 0;
+}
+.calc__box {
+   position: sticky;
+   top: 7rem;
+}
+.calc__box > div {
+   margin-bottom: 2rem;
+}
+.calc__box > div:last-child {
+   margin-bottom: 0;
+}
+.calc__title {
+   font-size: 2rem;
+   font-weight: 500;
+}
+.box__sum {
+   border-top: 1px solid rgba(0, 0, 0, 0.5);
+   padding-top: 2rem;
+   font-size: 1.5rem;
+   display: flex;
+   flex-flow: column;
+   gap: 1.5rem;
+}
+.box__total-price,
+.box__discount-price,
+.box__delivery {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 1rem;
+}
+
+.box__payment {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.payment__title {
+   font-size: 2.5rem;
+   font-weight: 500;
+}
+.payment__price {
+   font-size: 2rem;
+   font-weight: 500;
+}
+.btn__in-cart {
+   width: 100%;
+   font-size: 2.5rem;
+   color: white;
+   background-color: #b93b54;
+   border: 1px solid #b93b54;
+   padding: 1rem 2rem;
+   margin: 1rem 0rem;
+   box-sizing: border-box;
+   cursor: pointer;
+}
+@media (max-width: 998.98px) {
+   .cart__container {
+      display: block;
+   }
+   .product__box-cart {
+      width: 100%;
+      padding: 1rem;
+   }
+   .box__sticky {
+      width: 100%;
+   }
+   
+}
+@media (max-width: 767.98px) {
+   .item__color,
+   .item__siaze,
+   .item__prise {
+      color: rgba(0, 0, 0, 0.5);
+      
+   }
+   .box__product-details {
+      padding: 0rem 0rem;
+   }
+}
+@media (max-width: 640.98px) {
+   .box__product-card {
+      display: block;
+   }
+   .box__fotto-card {
+      margin-bottom: 2rem;
+   }  
+   .box__product-details {
+      padding: 0;
+      width: 100%;
+   }
+   .add__like-title {
+      font-size: 1.9rem;
+      
+   }
+   .box__cart {
+      padding: 1.5rem 0rem;
+   }
+}
+@media (max-width: 424.98px) {
+   .product__foto-card {
+
+      height: 30rem;
+   }
+   
+}

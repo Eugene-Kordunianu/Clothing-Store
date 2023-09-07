@@ -1,0 +1,1020 @@
+[
+   {
+      "name": "Clover SS Shirt ",
+      "colors": [
+         "red",
+         "black",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         44,
+         46
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M61017_7441-697x697.png",
+      "id": 1
+   },
+   {
+      "name": "Mink SS Shirt",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "saddlebrown"
+      ],
+      "size": [
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M61018_1261-697x697.png",
+      "id": 2
+   },
+   {
+      "name": "Saimaa SS Shirt",
+      "colors": [
+         "black",
+         "pink",
+         "gray"
+      ],
+      "size": [
+         36,
+         38,
+         40,
+         42
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M61019_9741-697x697.png",
+      "id": 3
+   },
+   {
+      "name": "Sonar Shirt",
+      "colors": [
+         "black",
+         "pink",
+         "purple"
+      ],
+      "size": [
+         34,
+         36,
+         38,
+         40
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M60141_5651-697x697.png",
+      "id": 4
+   },
+   {
+      "name": "Morel Shirt ",
+      "colors": [
+         "black",
+         "white",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M60142_5651-697x697.png",
+      "id": 5
+   },
+   {
+      "name": "Shirt",
+      "colors": [
+         "blue",
+         "black",
+         "white"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2019/06/M60100_999_1-697x697.png",
+      "id": 6
+   },
+   {
+      "name": "Camino Shirt ",
+      "colors": [
+         "red",
+         "blue",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M60138_4631-697x697.png",
+      "id": 7
+   },
+   {
+      "name": "Cabin Overshirt",
+      "colors": [
+         "saddlebrown",
+         "blue",
+         "black",
+         "white",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38
+      ],
+      "price": 119.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U60003_1461-697x697.png",
+      "id": 8
+   },
+   {
+      "name": "Cabin Overshirt ",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "white",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42
+      ],
+      "price": 119.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U60003_9741-697x697.png",
+      "id": 9
+   },
+   {
+      "name": "FCamino Shirt ",
+      "colors": [
+         "white",
+         "black",
+         "gray"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price":89.00,
+      "url": "https://makia.com/wp-content/uploads/2020/06/M60138_9991_1-697x697.png",
+      "id": 10
+   },
+   {
+      "name": "Apollo Shirt",
+      "colors": [
+         "black",
+         "green",
+         "red"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U60004_4631-697x697.png",
+      "id": 11
+   },
+   {
+      "name": "Apollo Shirt",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "white",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U60004_6831-697x697.png",
+      "id": 12
+   },
+   {
+      "name": "Boulder Overshirt ",
+      "colors": [
+         "black",
+         "green"
+      ],
+      "size": [
+         30,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U60002_9981-697x697.png",
+      "id": 13
+   },
+   {
+      "name": "Calm Shirt ",
+      "colors": [
+         "black",
+         "white",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M60136_6511-697x697.png",
+      "id": 14
+   },
+   {
+      "name": "Eevert Shirt",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 109.0,
+      "url": "https://makia.com/wp-content/uploads/2023/01/M60147_568-697x697.png",
+      "id": 15
+   },
+   {
+      "name": "Eevert Shirt ",
+      "colors": [
+         "green",
+         "blue"
+      ],
+      "size": [
+         30,
+         32,
+         34
+      ],
+      "price": 109.00,
+      "url": "https://makia.com/wp-content/uploads/2023/01/M60147_739-697x697.png",
+      "id": 16
+   },
+   {
+      "name": "Quest Shorts ",
+      "colors": [
+         "black",
+         "green"
+      ],
+      "size": [
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72006_9991-697x697.png",
+      "id": 17
+   },
+   {
+      "name": "Quest Shorts",
+      "colors": [
+         "black"
+      ],
+      "size": [
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72006_9991-697x697.png",
+      "id": 18
+   },
+   {
+      "name": "Folk Shorts ",
+      "colors": [
+         "red",
+         "blue",
+         "orange",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         50
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72013_4351-697x697.png",
+      "id": 19
+   },
+   {
+      "name": "Curb Shorts",
+      "colors": [
+         "green"
+      ],
+      "size": [
+         34,
+         36,
+         38,
+         40,
+         42
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72015_7441-697x697.png",
+      "id": 20
+   },
+   {
+      "name": "Enkelit Sweatpants",
+      "colors": [
+         "blue",
+         "black",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/TT_U70001_4111-697x697.png",
+      "id": 21
+   },
+   {
+      "name": "Corduroy Pants",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70011_7551-697x697.png",
+      "id": 22
+   },
+   {
+      "name": "Victor Pants",
+      "colors": [
+         "red",
+         "gray"
+      ],
+      "size": [
+         30,
+         32,
+         34
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70014_6901-697x697.png",
+      "id": 23
+   },
+   {
+      "name": "Sora Shorts",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 69.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72016_1262-697x697.png",
+      "id": 24
+   },
+   {
+      "name": "Sora Shorts ",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 69.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72016_9991-697x697.png",
+      "id": 25
+   },
+   {
+      "name": "Folk Pants ",
+      "colors": [
+         "red",
+         "pink",
+         "gray"
+      ],
+      "size": [
+         40,
+         42,
+         44
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70005_643_1-697x697.png",
+      "id": 26
+   },
+   {
+      "name": "Scope Hybrid Shorts ",
+      "colors": [
+         "red",
+         "blue",
+         "black",
+         "pink",
+         "aqua"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 49.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72008_6341-697x697.png",
+      "id": 27
+   },
+   {
+      "name": "Comet Shorts ",
+      "colors": [
+         "gray",
+         "green",
+         "black"
+      ],
+      "size": [
+         36,
+         38,
+         44,
+         46
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72014_9991-697x697.png",
+      "id": 28
+   },
+   {
+      "name": "Curb Shorts ",
+      "colors": [
+         "gray",
+         "blue",
+         "black",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72015_9231-697x697.png",
+      "id": 29
+   },
+   {
+      "name": "Pintti Shorts ",
+      "colors": [
+         "black",
+         "pink",
+         "aqua",
+         "green"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44
+      ],
+      "price": 69.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/CK_M70002_999_1-697x697.png",
+      "id": 30
+   },
+   {
+      "name": "Folk Pants ",
+      "colors": [
+         "blue",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2021/05/M70018_6591-697x697.png",
+      "id": 31
+   },
+   {
+      "name": "Folk Pants ",
+      "colors": [
+         "black",
+         "white"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70018_7691-697x697.png",
+      "id": 32
+   },
+   {
+      "name": "Victor Pants ",
+      "colors": [
+         "blue",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70014_1371-697x697.png",
+      "id": 33
+   },
+   {
+      "name": "Curb Sweatpants ",
+      "colors": [
+         "gray",
+         "pink",
+         "red"
+      ],
+      "size": [
+         42,
+         44,
+         46
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70016_1231-697x697.png",
+      "id": 34
+   },
+   {
+      "name": "Border Shorts ",
+      "colors": [
+         "pink",
+         "white",
+         "red",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2022/03/M72013_6701-697x697.png",
+      "id": 35
+   },
+   {
+      "name": "Border Shorts ",
+      "colors": [
+         "blue",
+         "orange",
+         "black",
+         "white",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72013_4351-697x697.png",
+      "id": 36
+   },
+   {
+      "name": "Victor Shorts",
+      "colors": [
+         "gray",
+         "pink",
+         "red",
+         "blue",
+         "green"
+      ],
+      "size": [
+         30,
+         42,
+         44,
+         46
+      ],
+      "price": 69.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72019_1371-697x697.png",
+      "id": 37
+   },
+   {
+      "name": "North Hybrid Shorts ",
+      "colors": [
+         "pink",
+         "white",
+         "red",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72018_9991-697x697.png",
+      "id": 38
+   },
+   {
+      "name": "Victor Shorts ",
+      "colors": [
+         "blue",
+         "black",
+         "white",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         44,
+         46
+      ],
+      "price": 69.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72013_6701-697x697.png",
+      "id": 39
+   },
+   {
+      "name": "Curb Shorts",
+      "colors": [
+         "gray",
+         "pink",
+         "purple",
+         "green"
+      ],
+      "size": [
+         30,
+         42,
+         44,
+         46
+      ],
+      "price": 59.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M72015_5651-697x697.png",
+      "id": 40
+   },
+   {
+      "name": "Group Sweatpants ",
+      "colors": [
+         "black",
+         "white",
+         "red",
+         "aqua"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 89.00,
+      "url": "https://makia.com/wp-content/uploads/2022/03/CAB_U72001_6651-697x697.png",
+      "id": 41
+   },
+   {
+      "name": "Kasper Pants ",
+      "colors": [
+         "blue",
+         "black",
+         "white",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         44,
+         46
+      ],
+      "price": 75.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70015_9991-697x697.png",
+      "id": 42
+   },
+   {
+      "name": "Gustaw Pants ",
+      "colors": [
+         "gray",
+         "pink",
+         "red",
+         "blue",
+         "green"
+      ],
+      "size": [
+         30,
+         42,
+         44,
+         46
+      ],
+      "price": 80.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70017_7691-697x697.png",
+      "id": 43
+   },
+   {
+      "name": "Gustaw Pants",
+      "colors": [
+         "pink",
+         "white",
+         "red",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 80.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/M70017_9991-697x697.png",
+      "id": 44
+   },
+   {
+      "name": "Gustaw Pants",
+      "colors": [
+         "blue",
+         "black",
+         "white",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         44,
+         46
+      ],
+      "price": 80.00,
+      "url": "https://makia.com/wp-content/uploads/2022/12/M70017_0511-697x697.png",
+      "id": 45
+   },
+   {
+      "name": "Boulder Pants ",
+      "colors": [
+         "gray",
+         "blue",
+         "green"
+      ],
+      "size": [
+         30,
+         42,
+         44,
+         46
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U70007_6911-697x697.png",
+      "id": 46
+   },
+   {
+      "name": "Boulder Pants",
+      "colors": [
+         "pink",
+         "white",
+         "red",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 99.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U70007_1-697x697.png",
+      "id": 47
+   },
+   {
+      "name": "Palisade Pants",
+      "colors": [
+         "blue",
+         "black",
+         "white",
+         "pink"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         44,
+         46
+      ],
+      "price": 75.25,
+      "url": "https://makia.com/wp-content/uploads/2022/12/M70021_0512-697x697.png",
+      "id": 48
+   },
+   {
+      "name": "Laurel Shorts ",
+      "colors": [
+         "gray",
+         "pink",
+         "red",
+         "white",
+         "green"
+      ],
+      "size": [
+         30,
+         42,
+         44,
+         46
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2023/01/U72002_9101-697x697.png",
+      "id": 49
+   },
+   {
+      "name": "Laurel Shorts ",
+      "colors": [
+         "pink",
+         "white",
+         "red",
+         "black"
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         36,
+         38,
+         40,
+         42,
+         44,
+         46
+      ],
+      "price": 79.00,
+      "url": "https://makia.com/wp-content/uploads/2023/01/U72002_9991-697x697.png",
+      "id": 50
+   },
+   {
+      "name": "Boulder Pants ",
+      "colors": [
+         "blue",
+         "black",
+         "white"
+         
+      ],
+      "size": [
+         30,
+         32,
+         34,
+         44,
+         46
+      ],
+      "price": 75.00,
+      "url": "https://makia.com/wp-content/uploads/2018/01/U70007_1-697x697.png",
+      "id": 51
+   }
+]
